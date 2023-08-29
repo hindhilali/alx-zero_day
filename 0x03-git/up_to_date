@@ -7,4 +7,4 @@ git push
 git  checkout  -b  <branch-name>       
 git  branch  <branch-name>
 git checkout  <branch-name >            
-
+git pull
